@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anass\\source\\repos\\NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker.csproj",
+      "projectUniqueName": "C:\\Users\\anass\\source\\repos\\Grand-Circus\\Lab2_NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker.csproj",
       "projectName": "NumberAnalyzer_DecisionMaker",
-      "projectPath": "C:\\Users\\anass\\source\\repos\\NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker.csproj",
+      "projectPath": "C:\\Users\\anass\\source\\repos\\Grand-Circus\\Lab2_NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker.csproj",
       "packagesPath": "C:\\Users\\anass\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anass\\source\\repos\\NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker\\obj\\",
+      "outputPath": "C:\\Users\\anass\\source\\repos\\Grand-Circus\\Lab2_NumberAnalyzer_DecisionMaker\\NumberAnalyzer_DecisionMaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
